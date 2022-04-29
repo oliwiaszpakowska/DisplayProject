@@ -14,6 +14,7 @@ int main(){
 		/* koniec performow */
 		
 		GPIO_configuration_counter();
+		GPIO_configuration_counter();
 	}
 }
 
